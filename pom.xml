@@ -8,7 +8,7 @@
         <version>2.5.3</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.practice</groupId>
+    <groupId>com</groupId>
     <artifactId>leetcode</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>leetcode</name>
