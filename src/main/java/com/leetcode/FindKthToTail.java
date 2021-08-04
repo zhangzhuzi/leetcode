@@ -1,5 +1,7 @@
 package com.leetcode;
 
+import com.leetcode.entity.ListNode;
+
 /**
  * @Author: ZhangShiZhu
  * @Description:

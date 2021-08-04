@@ -1,5 +1,7 @@
 package com.leetcode;
 
+import com.leetcode.entity.ListNode;
+
 /**
  * @description: addTwoNumbers
  * @date: 2020/6/5 9:24

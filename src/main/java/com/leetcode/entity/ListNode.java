@@ -1,4 +1,4 @@
-package com.leetcode;
+package com.leetcode.entity;
 
 /**
  * @description: ListNode
@@ -6,10 +6,10 @@ package com.leetcode;
  * @author: zsz
  */
 public class ListNode {
-    int val;
-    ListNode next;
+    public ListNode next;
+    public int val;
 
-    ListNode(int x) {
+    public ListNode(int x) {
         val = x;
     }
 }
